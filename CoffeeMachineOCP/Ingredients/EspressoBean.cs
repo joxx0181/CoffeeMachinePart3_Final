@@ -22,7 +22,7 @@ namespace CoffeeMachineOCP
             return "inserting espresso filter.";
         }
 
-        // 7 grams of coffeebean per.cup!
+        // 14 grams of espressobean per.cup!
         public int GetCup()
         {
             return (Amount / 14) / 3;
