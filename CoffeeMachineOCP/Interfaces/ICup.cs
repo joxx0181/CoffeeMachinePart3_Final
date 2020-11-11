@@ -7,6 +7,7 @@ namespace CoffeeMachineOCP
     // This interface represents cup!
     interface ICup
     {
+        // abstract method with empty body!
         int GetCup();
     }
 }

@@ -17,6 +17,7 @@ namespace CoffeeMachineOCP
             return base.ToString();
         }
 
+        // The body of interface methods is provided here!
         public string GetFilter()
         {
             return "inserting espresso filter.";
